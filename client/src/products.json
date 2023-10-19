@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "nom": "Sorel - Tivoli IV",
+      "description": "Botte imperméable beige pour femmes",
+      "prix": "200.00",
+      "photo": "Sorel-Tivoli-IV.webp",
+      "categorie": "Bottes"
+    },
+    {
+      "id": 2,
+      "nom": "Dr. Martens - Jadon III",
+      "description": "Botte noire pour femmes",
+      "prix": "280.00",
+      "photo": "Dr-Martens-JadonIII-Pisa.webp",
+      "categorie": "Bottes"
+    },
+    {
+      "id": 3,
+      "nom": "Converse - Chuck 70 Hi",
+      "description": "Basket noire pour femmes",
+      "prix": "79.98",
+      "photo": "Converse-Chuck-70.webp",
+      "categorie": "Chaussures"
+    },
+    {
+      "nom": "New Balance - CT 574",
+      "description": "Baskets blanches pour hommes",
+      "prix": "120.00",
+      "photo": "New-Balance-CT574.webp",
+      "categorie": "Baskets",
+      "id": 4
+    }
+]
